@@ -80,3 +80,7 @@ def menu():
             delete_cart()
         elif choix ==0:
             return
+
+
+# start the program
+menu()
