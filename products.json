@@ -1,5 +1,18 @@
-{
-    "name":"souris",
-    "price":23,
-    "stock":12
-}
+[
+    {
+        "name": "PC",
+        "price": 5000
+    },
+    {
+        "name": "Phone",
+        "price": 2000
+    },
+    {
+        "name": "Tablet",
+        "price": 3000
+    },
+    {
+        "name": "Headphones",
+        "price": 150
+    }
+]
