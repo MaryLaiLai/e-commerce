@@ -79,4 +79,4 @@ def menu():
         elif choix ==3:
             delete_cart()
         elif choix ==0:
-            
+            return
